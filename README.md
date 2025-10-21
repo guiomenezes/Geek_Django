@@ -1,3 +1,3 @@
 # Geek_Django
 
-My Second Project from Geek Universisty using Django as Framework
+My Second Project from Geek University using Django as Framework
